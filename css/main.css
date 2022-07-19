@@ -1,0 +1,9 @@
+#product{
+    display:flex;
+    align-self: auto;
+    margin: 5px;
+}
+#heading{
+    align-items: center;
+    text-align: center;
+}
